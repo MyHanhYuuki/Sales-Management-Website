@@ -1,0 +1,732 @@
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\ApplicationInsights.config
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\QLWeb.dll.config
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\QLWeb.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\QLWeb.pdb
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\EntityFramework.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.Helpers.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.Mvc.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.Optimization.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.Razor.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.WebPages.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\WebGrease.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\EntityFramework.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.Helpers.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.Mvc.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.Optimization.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.Razor.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.WebPages.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\obj\Debug\QLWeb.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\obj\Debug\QLWeb.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\obj\Debug\QLWeb.csproj.CopyComplete
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\obj\Debug\QLWeb.dll
+C:\Users\DELL\Source\Repos\UITPhone\QLWeb\obj\Debug\QLWeb.pdb
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\csc.exe
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\csc.exe.config
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\csc.rsp
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\csi.exe
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\csi.exe.config
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\csi.rsp
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Console.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\vbc.exe
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\vbc.exe.config
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\vbc.rsp
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\Common.exe
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\Common.pdb
+C:\Users\DELL\source\repos\UITPhone\QLWeb\bin\Common.exe.config
+F:\ood\UITPhone\QLWeb\bin\ApplicationInsights.config
+F:\ood\UITPhone\QLWeb\bin\QLWeb.dll.config
+F:\ood\UITPhone\QLWeb\bin\QLWeb.dll
+F:\ood\UITPhone\QLWeb\bin\QLWeb.pdb
+F:\ood\UITPhone\QLWeb\bin\roslyn\csc.exe
+F:\ood\UITPhone\QLWeb\bin\roslyn\csc.exe.config
+F:\ood\UITPhone\QLWeb\bin\roslyn\csc.rsp
+F:\ood\UITPhone\QLWeb\bin\roslyn\csi.exe
+F:\ood\UITPhone\QLWeb\bin\roslyn\csi.exe.config
+F:\ood\UITPhone\QLWeb\bin\roslyn\csi.rsp
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ood\UITPhone\QLWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.AppContext.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Console.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.IO.Compression.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Security.AccessControl.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Security.Claims.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.ValueTuple.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ood\UITPhone\QLWeb\bin\roslyn\vbc.exe
+F:\ood\UITPhone\QLWeb\bin\roslyn\vbc.exe.config
+F:\ood\UITPhone\QLWeb\bin\roslyn\vbc.rsp
+F:\ood\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe
+F:\ood\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\ood\UITPhone\QLWeb\bin\Antlr3.Runtime.dll
+F:\ood\UITPhone\QLWeb\bin\Business.dll
+F:\ood\UITPhone\QLWeb\bin\Common.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportSource.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.Shared.dll
+F:\ood\UITPhone\QLWeb\bin\EntityFramework.dll
+F:\ood\UITPhone\QLWeb\bin\EntityFramework.SqlServer.dll
+F:\ood\UITPhone\QLWeb\bin\EPPlus.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AI.Web.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.ApplicationInsights.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\ood\UITPhone\QLWeb\bin\Newtonsoft.Json.dll
+F:\ood\UITPhone\QLWeb\bin\Owin.dll
+F:\ood\UITPhone\QLWeb\bin\PagedList.dll
+F:\ood\UITPhone\QLWeb\bin\PagedList.Mvc.dll
+F:\ood\UITPhone\QLWeb\bin\Spire.Common.dll
+F:\ood\UITPhone\QLWeb\bin\Spire.License.dll
+F:\ood\UITPhone\QLWeb\bin\Spire.Pdf.dll
+F:\ood\UITPhone\QLWeb\bin\Spire.XLS.dll
+F:\ood\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.dll
+F:\ood\UITPhone\QLWeb\bin\System.Net.Http.Formatting.dll
+F:\ood\UITPhone\QLWeb\bin\System.Web.Helpers.dll
+F:\ood\UITPhone\QLWeb\bin\System.Web.Http.dll
+F:\ood\UITPhone\QLWeb\bin\System.Web.Http.Owin.dll
+F:\ood\UITPhone\QLWeb\bin\System.Web.Mvc.dll
+F:\ood\UITPhone\QLWeb\bin\System.Web.Optimization.dll
+F:\ood\UITPhone\QLWeb\bin\System.Web.Razor.dll
+F:\ood\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.dll
+F:\ood\UITPhone\QLWeb\bin\System.Web.WebPages.dll
+F:\ood\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.dll
+F:\ood\UITPhone\QLWeb\bin\WebGrease.dll
+F:\ood\UITPhone\QLWeb\bin\Data.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\ood\UITPhone\QLWeb\bin\Microsoft.mshtml.dll
+F:\ood\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\ood\UITPhone\QLWeb\bin\stdole.dll
+F:\ood\UITPhone\QLWeb\bin\Business.pdb
+F:\ood\UITPhone\QLWeb\bin\Business.dll.config
+F:\ood\UITPhone\QLWeb\bin\Common.pdb
+F:\ood\UITPhone\QLWeb\bin\Common.dll.config
+F:\ood\UITPhone\QLWeb\bin\EntityFramework.xml
+F:\ood\UITPhone\QLWeb\bin\EntityFramework.SqlServer.xml
+F:\ood\UITPhone\QLWeb\bin\EPPlus.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ood\UITPhone\QLWeb\bin\PagedList.xml
+F:\ood\UITPhone\QLWeb\bin\PagedList.Mvc.xml
+F:\ood\UITPhone\QLWeb\bin\Spire.Common.xml
+F:\ood\UITPhone\QLWeb\bin\Spire.Pdf.xml
+F:\ood\UITPhone\QLWeb\bin\Spire.XLS.xml
+F:\ood\UITPhone\QLWeb\bin\System.Net.Http.Formatting.xml
+F:\ood\UITPhone\QLWeb\bin\System.Web.Helpers.xml
+F:\ood\UITPhone\QLWeb\bin\System.Web.Http.xml
+F:\ood\UITPhone\QLWeb\bin\System.Web.Http.Owin.xml
+F:\ood\UITPhone\QLWeb\bin\System.Web.Razor.xml
+F:\ood\UITPhone\QLWeb\bin\System.Web.WebPages.xml
+F:\ood\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.xml
+F:\ood\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.xml
+F:\ood\UITPhone\QLWeb\bin\System.Web.Mvc.xml
+F:\ood\UITPhone\QLWeb\bin\System.Web.Optimization.xml
+F:\ood\UITPhone\QLWeb\bin\Newtonsoft.Json.xml
+F:\ood\UITPhone\QLWeb\bin\Antlr3.Runtime.pdb
+F:\ood\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.AI.Web.xml
+F:\ood\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ood\UITPhone\QLWeb\bin\Data.pdb
+F:\ood\UITPhone\QLWeb\bin\Data.dll.config
+F:\ood\UITPhone\QLWeb\obj\Debug\QLWeb.csprojAssemblyReference.cache
+F:\ood\UITPhone\QLWeb\obj\Debug\QLWeb.csproj.CoreCompileInputs.cache
+F:\ood\UITPhone\QLWeb\obj\Debug\QLWeb.csproj.CopyComplete
+F:\ood\UITPhone\QLWeb\obj\Debug\QLWeb.dll
+F:\ood\UITPhone\QLWeb\obj\Debug\QLWeb.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\ApplicationInsights.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\QLWeb.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\QLWeb.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\QLWeb.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\csc.exe
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\csc.exe.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\csc.rsp
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\csi.exe
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\csi.exe.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\csi.rsp
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.AppContext.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Console.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\vbc.exe
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\vbc.exe.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\vbc.rsp
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Antlr3.Runtime.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Business.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Common.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\EntityFramework.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\EPPlus.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AI.Web.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Newtonsoft.Json.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Owin.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\PagedList.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\PagedList.Mvc.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Spire.Common.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Spire.License.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Spire.Pdf.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Spire.XLS.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Helpers.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Http.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Http.Owin.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Mvc.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Optimization.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Razor.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.WebPages.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\WebGrease.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Data.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.mshtml.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\stdole.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Business.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Business.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Common.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Common.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\EntityFramework.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\EPPlus.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\PagedList.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\PagedList.Mvc.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Spire.Common.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Spire.Pdf.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Spire.XLS.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Helpers.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Http.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Http.Owin.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Razor.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.WebPages.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Mvc.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Web.Optimization.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Newtonsoft.Json.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Antlr3.Runtime.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.AI.Web.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Data.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\bin\Data.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\obj\Debug\QLWeb.csprojAssemblyReference.cache
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\obj\Debug\QLWeb.csproj.CopyComplete
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\obj\Debug\QLWeb.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\QLWeb\obj\Debug\QLWeb.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\ApplicationInsights.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\QLWeb.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\QLWeb.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\QLWeb.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csc.exe
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csi.exe
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Business.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Common.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EPPlus.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.Web.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Owin.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\PagedList.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.Common.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.License.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.Pdf.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.XLS.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Http.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Http.Owin.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Data.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.mshtml.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\stdole.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Business.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Business.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Common.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Common.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EPPlus.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\PagedList.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.Common.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.Pdf.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.XLS.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Http.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Http.Owin.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.Web.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Data.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Data.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\ApplicationInsights.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\QLWeb.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\QLWeb.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\QLWeb.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csc.exe
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csc.exe.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csc.rsp
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csi.exe
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csi.exe.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\csi.rsp
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.Managed.Core.targets
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.AppContext.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Console.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.Compression.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.IO.Pipes.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.AccessControl.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Claims.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Security.Principal.Windows.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.ValueTuple.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Xml.XmlDocument.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\vbc.exe
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\vbc.exe.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\vbc.rsp
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Antlr3.Runtime.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Business.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Common.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EntityFramework.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EntityFramework.SqlServer.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EPPlus.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.Web.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.ApplicationInsights.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Newtonsoft.Json.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Owin.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\PagedList.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\PagedList.Mvc.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.Common.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.License.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.Pdf.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.XLS.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Net.Http.Formatting.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Helpers.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Http.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Http.Owin.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Mvc.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Optimization.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Razor.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\WebGrease.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Data.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.mshtml.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\stdole.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Business.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Business.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Common.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Common.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EntityFramework.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EntityFramework.SqlServer.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\EPPlus.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\PagedList.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\PagedList.Mvc.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.Common.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.Pdf.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Spire.XLS.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Net.Http.Formatting.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Helpers.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Http.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Http.Owin.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Razor.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.Deployment.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.WebPages.Razor.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Mvc.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Web.Optimization.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Newtonsoft.Json.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Antlr3.Runtime.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\System.Diagnostics.DiagnosticSource.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.AI.Web.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Data.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\bin\Data.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.csprojAssemblyReference.cache
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.csproj.CoreCompileInputs.cache
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.csproj.CopyComplete
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\QLWeb\obj\Debug\QLWeb.pdb

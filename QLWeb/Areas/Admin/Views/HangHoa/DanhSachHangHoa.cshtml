@@ -1,0 +1,59 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<Common.ViewModels.HangHoaViewModel>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-middle table-primary">
+        <thead>
+            <tr>
+                <th class="text-center" style="width: 5%;">Mã hàng hóa</th>
+                <th class="text-center" style="width: 20%;">Tên hàng hóa</th>
+                <th class="text-center" style="width: 8%;">Giá bán</th>
+                <th class="text-center" style="width: 7%;">Giảm giá</th>
+                <th class="text-center" style="width: 5%;">Số lượng tồn</th>
+                <th class="text-center" style="width: 10%;">Xuất xứ</th>
+                <th class="text-center" style="width: 10%;">Thời gian bảo hành</th>
+                <th class="text-center" style="width: 10%;">Loại hàng hóa</th>
+                <th class="text-center" style="width: 5%;">Model name</th>
+                <th class="text-center" style="width: 10%;">Trạng thái</th>
+                <th class="text-center" style="width: 10%;">Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="border-warning">
+                    <td>@item.maHangHoa</td>
+                    <td>
+                        <img src="~/Content/client/product/@item.hinhAnh" width="50" height="50">
+                        <span>@item.tenHangHoa</span>
+                    </td>
+                    <td>@item.giaBan</td>
+                    <td>@item.giamGia</td>
+                    <td>@item.soLuongTon</td>
+                    <td>@item.xuatXu</td>
+                    <td>@item.thoiGianBaoHanh</td>
+                    <td>@item.tenLoaiHangHoa</td>
+                    <td>@item.modelName</td>
+                    @if (@item.trangThai == true)
+                    {
+                        <td>Đang kinh doanh</td>
+                    }
+                    else
+                    {
+                        <td>Ngừng kinh doanh</td>
+                    }
+                    <td>
+                        <a href="@Url.Action("Detail", new { id = item.maHangHoa })" class="btn btn-sm btn-success btn-xs btn-push"><i class="fa fa-eye"></i> Xem</a>
+                        <a href="@Url.Action("Edit", new { id = item.maHangHoa })" class="btn btn-sm btn-warning btn-xs btn-push"><i class="fa fa-pencil"></i> Sửa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="pull-left" style="padding-top:20px">
+    <h4 class="panel-title">Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount </h4>
+</div>
+<div class="pull-right">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+</div>

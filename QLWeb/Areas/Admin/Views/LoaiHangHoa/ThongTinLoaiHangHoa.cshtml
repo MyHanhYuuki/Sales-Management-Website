@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Common.ViewModels.LoaiHangHoaViewModel>
+@using Common.ViewModels
+
+@foreach (var item in Model)
+{
+    <div class="form-group">
+        <label>Mã Loại Hàng Hóa</label>
+        <input type="text" name="maloaihanghoa" value="@item.maLoaiHangHoa" class="form-control rounded" disabled="disabled" />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Tên Loại Hàng Hóa</label>
+        <input type="text" id="tenloaihanghoa" name="tenloaihanghoa" value="@item.tenLoaiHangHoa" class="form-control rounded" maxlength="100" required />
+        <h3 style="margin-top:0%" hidden class="error notifyinputTenLoaiHangHoa messageErrorinputTenLoaiHangHoa">Tên loại hàng hóa đã tồn tại!</h3>
+        <input type="hidden" id="checktenloaihanghoa" name="checktenloaihanghoa" class="form-control rounded" />
+    </div>
+
+    <div class="form-group">
+        <label>Phần Trăm Lợi Nhuận</label>
+        <input type="text" name="phantramloinhuan" value="@item.phanTramLoiNhuan" class="form-control rounded" required="required" />
+    </div>
+
+}

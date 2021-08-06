@@ -1,0 +1,51 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<Common.ViewModels.NhanVienViewModel>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-middle table-primary">
+        <thead>
+            <tr>
+                <th class="text-center" style="width: 20%;">Nhân viên</th>
+                <th class="text-center" style="width: 12%;">Tên đăng nhập</th>
+                <th class="text-center" style="width: 12%;">Chức vụ</th>
+                <th class="text-center" style="width: 12%;">Số điện thoại</th>
+                <th class="text-center" style="width: 12%;">Email</th>
+                <th class="text-center" style="width: 10%;">Trạng thái</th>
+                <th class="text-center" style="width: 12%;">Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="border-warning">
+                    <td>
+                        <img src="~/Content/image/user/@item.avatar" width="50" height="50" class="img-circle img-bordered-theme">
+                        <span>@item.tenNhanVien</span>
+                    </td>
+                    <td>@item.userName</td>
+                    <td>@item.tenChucVu</td>
+                    <td>@item.soDienThoai</td>
+                    <td>@item.email</td>
+                    @if (@item.trangThai == true)
+                    {
+                        <td>Đang hoạt động</td>
+                    }
+                    else
+                    {
+                        <td>Ngừng hoạt động</td>
+                    }
+                    <td>
+                        <a href="@Url.Action("Detail", new { id = item.maNhanVien })" class="btn btn-sm btn-success btn-xs btn-push"><i class="fa fa-eye"></i> Xem</a>
+                        <a href="@Url.Action("Edit", new { id = item.maNhanVien })" class="btn btn-sm btn-warning btn-xs btn-push"><i class="fa fa-pencil"></i> Sửa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="pull-left" style="padding-top:20px">
+    <h4 class="panel-title">Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount </h4>
+</div>
+<div class="pull-right">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+</div>

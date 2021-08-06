@@ -1,0 +1,143 @@
+﻿@model Common.ViewModels.PhieuBaoHanhViewModel
+@{
+    ViewBag.Title = "Lập phiếu bảo hành";
+    Layout = "~/Areas/Admin/Views/Layout/HomeLayout.cshtml";
+}
+<script src="~/Scripts/Controller/phieubaohanhScripts.js"></script>
+<link href="~/Content/assets/css/generalMessageError.css" rel="stylesheet" />
+
+<section id="page-content">
+    <div class="header-content">
+        <h2><i class="fa fa-list-alt"></i>Phiếu Bảo Hành</h2>
+        <div class="breadcrumb-wrapper hidden-xs">
+            <button class="btn btn-lg btn-success btn-xs btn-push" id="submit"><i class="glyphicon glyphicon-save"></i> Lưu</button>
+            <button class="btn btn-lg btn-success btn-xs btn-push" id="print"><i class="glyphicon glyphicon-print"></i> In</button>
+            <button class="btn btn-lg btn-success btn-xs btn-push" onclick="@("window.location.href='" + @Url.Action("Index", "BaoHanh") + "'"); ">
+                <i class="glyphicon glyphicon-arrow-left"></i> Quay lại
+            </button>
+        </div>
+    </div>
+
+    <div class="body-content animated fadeIn">
+        <div class="row">
+            <div class="col-md-9">
+                <!-- Start bordered form -->
+                <div class="panel rounded shadow">
+                    <div class="panel-heading">
+                        <div class="pull-left">
+                            <h3 class="panel-title">Thông tin sản phẩm bảo hành</h3>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div><!-- /.panel-heading -->
+
+                    <div class="panel-body no-padding">
+                        <form class="form-horizontal form-bordered" role="form">
+                            <div class="form-body">
+                                <div class="form-group">
+                                    <label for="firstname-1" class="col-sm-3 control-label">Sản phẩm</label>
+                                    <div class="col-sm-9">
+                                        <select id="maHangHoa" class="chosen-select">
+                                            @foreach (var item in ViewBag.danhSachHangHoa)
+                                            {
+                                                <option value="@item.Value">@item.Text</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="firstname-1" class="col-sm-3 control-label">Model Name</label>
+                                    <div class="col-sm-9">
+                                        <input id="modelName" disabled="disabled" type="text" class="form-control rounded" />
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="password-1" class="col-sm-3 control-label">Ngày nhận máy</label>
+                                    <div class="col-sm-9">
+                                        <input id="ngayLap" value="@DateTime.Now.ToString("dd/MM/yyyy")" disabled="disabled" type="text" class="form-control rounded"/>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="firstname-1" class="col-sm-3 control-label">Ngày giao máy</label>
+                                    <div class="col-sm-9">
+                                        <input type="date" id="ngayGiao" data-date-format="dd/mm/yyyy" required class="form-control rounded"/>
+                                    </div>
+                                    <h3 id="checkNgayGiao" hidden class="messageError notifyinputNgayGiao messageErrorinputNgayGiao"></h3>
+                                </div>
+
+                                <span id="productItemError" class="messageError" style="color:red"></span>
+                                <div id="orderItems" class="table-responsive" style="padding-top:15px"></div>
+                                <div id="Items" hidden class="table-responsive"></div>
+                                <input value="@ViewBag.maNhanVien" id="maNhanVien" type="hidden" class="form-control" style="width:200px" disabled="disabled" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="panel rounded shadow">
+                    <div class="panel-heading">
+                        <div class="pull-left">
+                            <h3 class="panel-title">Thông tin phiếu bảo hành</h3>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div><!-- /.panel-heading -->
+                    <div class="panel-body no-padding">
+                        <form class="form-horizontal form-bordered" role="form">
+                            <div class="form-body">
+
+                                <div class="form-group">
+                                    <label for="firstname-1" class="col-sm-3 control-label">Số phiếu</label>
+                                    <div class="col-sm-9">
+                                        <input value="@ViewBag.soPhieuBaoHanh" type="text" id="soPhieuBaoHanh" class="form-control rounded" disabled="disabled" />
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="password-1" class="col-sm-3 control-label">Ngày lập</label>
+                                    <div class="col-sm-9">
+                                        <input id="ngayLap" value="@DateTime.Now.ToString("dd/MM/yyyy")" disabled="disabled" type="text" class="form-control rounded"/>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="firstname-1" class="col-sm-3 control-label">Nhân viên</label>
+                                    <div class="col-sm-9">
+                                        <input value="@ViewBag.tenNhanVien" id="tenNhanVien" type="text" class="form-control rounded" disabled="disabled" />
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="firstname-1" class="col-sm-3 control-label">Tên khách hàng</label>
+                                    <div class="col-sm-9">
+                                        <input placeholder="Nhập tên khách hàng" id="tenKhachHang" type="text" class="form-control rounded" />
+                                    </div>
+                                    <h3 id="checkTenKhachHang" hidden class="messageError notifyinputTenKhachHang messageErrorinputTenKhachHang"></h3>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="firstname-1" class="col-sm-3 control-label">Số điện thoại</label>
+                                    <div class="col-sm-9">
+                                        <input placeholder="Nhập số điện thoại" id="soDienThoai" onkeypress="return checkNumber(event, this)" type="text" class="form-control rounded" />
+                                    </div>
+                                    <h3 id="checkSoDienThoai" hidden class="messageError notifyinputSoDienThoai messageErrorinputSoDienThoai"></h3>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="firstname-1" class="col-sm-3 control-label">Lý do bảo hành</label>
+                                    <div class="col-sm-9">
+                                        <textarea id="ghiChu" placeholder="Lý do bảo hành viết tại đây" class="form-control rounded"></textarea>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script src="~/Scripts/bootstrap.min.js"></script>

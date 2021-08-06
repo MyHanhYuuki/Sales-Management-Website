@@ -1,0 +1,35 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<Common.ViewModels.LoaiHangHoaViewModel>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-middle table-primary">
+        <thead>
+            <tr>
+                <th class="text-center" style="width: 20%;">Mã loại hàng hóa</th>
+                <th class="text-center" style="width: 30%;">Tên loại hàng hóa</th>
+                <th class="text-center" style="width: 20%;">Phần trăm lợi nhuận</th>
+                <th class="text-center" style="width: 30%;">Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="border-warning">
+                    <td>@item.maLoaiHangHoa</td>
+                    <td>@item.tenLoaiHangHoa</td>
+                    <td>@item.phanTramLoiNhuan</td>
+                    <td>
+                        <a href="@Url.Action("Detail", new { id = item.maLoaiHangHoa })" class="btn btn-sm btn-success btn-xs btn-push"><i class="fa fa-eye"></i> Xem</a>
+                        <a href="@Url.Action("Edit", new { id = item.maLoaiHangHoa })" class="btn btn-sm btn-warning btn-xs btn-push"><i class="fa fa-pencil"></i> Sửa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="pull-left" style="padding-top:20px">
+    <h4 class="panel-title">Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount </h4>
+</div>
+<div class="pull-right">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+</div>

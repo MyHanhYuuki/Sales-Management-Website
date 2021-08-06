@@ -1,0 +1,103 @@
+C:\Users\DELL\Source\Repos\UITPhone\Common\bin\Debug\Common.exe.config
+C:\Users\DELL\Source\Repos\UITPhone\Common\bin\Debug\Common.exe
+C:\Users\DELL\Source\Repos\UITPhone\Common\bin\Debug\Common.pdb
+C:\Users\DELL\Source\Repos\UITPhone\Common\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Source\Repos\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Source\Repos\UITPhone\Common\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Source\Repos\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Source\Repos\UITPhone\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\UITPhone\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\UITPhone\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\DELL\Source\Repos\UITPhone\Common\obj\Debug\Common.exe
+C:\Users\DELL\Source\Repos\UITPhone\Common\obj\Debug\Common.pdb
+F:\ood\UITPhone\Common\bin\Debug\Common.dll.config
+F:\ood\UITPhone\Common\bin\Debug\Common.dll
+F:\ood\UITPhone\Common\bin\Debug\Common.pdb
+F:\ood\UITPhone\Common\bin\Debug\EntityFramework.dll
+F:\ood\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.dll
+F:\ood\UITPhone\Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\ood\UITPhone\Common\bin\Debug\System.Web.Helpers.dll
+F:\ood\UITPhone\Common\bin\Debug\System.Web.Razor.dll
+F:\ood\UITPhone\Common\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\ood\UITPhone\Common\bin\Debug\System.Web.WebPages.dll
+F:\ood\UITPhone\Common\bin\Debug\System.Web.WebPages.Razor.dll
+F:\ood\UITPhone\Common\bin\Debug\EntityFramework.xml
+F:\ood\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.xml
+F:\ood\UITPhone\Common\bin\Debug\System.Web.Helpers.xml
+F:\ood\UITPhone\Common\bin\Debug\System.Web.Razor.xml
+F:\ood\UITPhone\Common\bin\Debug\System.Web.WebPages.xml
+F:\ood\UITPhone\Common\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\ood\UITPhone\Common\bin\Debug\System.Web.WebPages.Razor.xml
+F:\ood\UITPhone\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\ood\UITPhone\Common\obj\Debug\Common.csproj.CopyComplete
+F:\ood\UITPhone\Common\obj\Debug\Common.dll
+F:\ood\UITPhone\Common\obj\Debug\Common.pdb
+F:\ood\UITPhone\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\Common.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\Common.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\Common.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\EntityFramework.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.Helpers.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.Razor.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.WebPages.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\EntityFramework.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.Helpers.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.Razor.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.WebPages.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\obj\Debug\Common.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Common\obj\Debug\Common.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\Common.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\Common.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\Common.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\Common.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\Common.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\Common.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\EntityFramework.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.Helpers.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.Razor.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.Razor.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\EntityFramework.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\EntityFramework.SqlServer.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.Helpers.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.Razor.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\bin\Debug\System.Web.WebPages.Razor.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.csprojAssemblyReference.cache
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.csproj.CopyComplete
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Common\obj\Debug\Common.pdb

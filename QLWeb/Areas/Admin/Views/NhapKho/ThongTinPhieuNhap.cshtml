@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Common.ViewModels.PhieuNhapViewModel>
+@using Common.Functions
+
+<div class="col-md-9">
+    <!-- Start bordered form -->
+    <div class="panel rounded shadow">
+        <div class="panel-heading">
+            <div class="pull-left">
+                <h3 class="panel-title">Thông tin sản phẩm</h3>
+            </div>
+            <div class="clearfix"></div>
+        </div><!-- /.panel-heading -->
+        <div class="panel-body no-padding">
+            <div class="form-body">
+                <div class="table-responsive mb-20">
+                    <table class="table table-bordered">
+                        <tr>
+                            <td>Mã sản phẩm</td>
+                            <td>Tên sản phẩm</td>
+                            <td>Đơn vị tính</td>
+                            <td>Số lượng nhập</td>
+                            <td>Giá nhập</td>
+                            <td>Thành tiền</td>
+                        </tr>
+                        @foreach (var item in ViewBag.chiTietPhieuNhap)
+                        {
+                            FormatNumber number = new FormatNumber();
+                        <tr>
+                            <td>@item.maHangHoa</td>
+                            <td>@item.tenHangHoa</td>
+                            <td>@item.donViTinh</td>
+                            <td>@item.soLuongNhap</td>
+                            <td>@number.FormatNumbers(@item.giaNhap.ToString())</td>
+                            <td>@number.FormatNumbers(@item.thanhTien.ToString())</td>
+                        </tr>
+                        }
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-md-3">
+    <div class="panel rounded shadow">
+        <div class="panel-heading">
+            <div class="pull-left">
+                <h3 class="panel-title">Thông tin phiếu nhập kho</h3>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="panel-body no-padding">
+            <form class="form-horizontal form-bordered" role="form">
+                <div class="form-body">
+                    @foreach (var a in ViewBag.phieuNhap)
+                    {
+                        FormatNumber number = new FormatNumber();
+                    <div class="x_content">
+                        <div class="form-group">
+                            <label for="firstname-1" class="col-sm-4 control-label">Số phiếu</label>
+                            <div class="col-sm-8">
+                                <input value="@a.soPhieuNhap" id="soPhieuNhap" type="text" class="form-control input-sm" disabled="disabled" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password-1" class="col-sm-4 control-label">Ngày lập</label>
+                            <div class="col-sm-8">
+                                <input value="@a.ngayNhap.ToString("dd/MM/yyyy")" disabled="disabled" type="text" class="form-control input-sm" />
+                            </div>
+                        </div><!-- /.form-group -->
+                        <div class="form-group">
+                            <label for="firstname-1" class="col-sm-4 control-label">Nhân viên</label>
+                            <div class="col-sm-8">
+                                <input value="@a.tenNhanVien" id="tenNhanVien" type="text" class="form-control input-sm" disabled="disabled" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="firstname-1" class="col-sm-4 control-label">Nhà cung cấp</label>
+                            <div class="col-sm-8">
+                                <input value="@a.tenNhaCungCap" id="tenNhaCungCap" type="text" class="form-control input-sm" disabled="disabled" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="firstname-1" class="col-sm-4 control-label">Tổng tiền</label>
+                            <div class="col-sm-8">
+                                <input value="@number.FormatNumbers(@a.tongTien.ToString())" id="tongTien" type="text" class="form-control input-sm" disabled="disabled" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="firstname-1" class="col-sm-4 control-label">Ghi chú</label>
+                            <div class="col-sm-8">
+                                <textarea placeholder="Ghi chú viết tại đây" class="form-control input-sm">@a.ghiChu</textarea>
+                            </div>
+                        </div>
+                    </div>
+                    }
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script src="~/Scripts/bootstrap.min.js"></script>

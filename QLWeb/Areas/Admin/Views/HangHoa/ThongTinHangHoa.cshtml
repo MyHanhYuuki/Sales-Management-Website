@@ -1,0 +1,113 @@
+﻿@model IEnumerable<Common.ViewModels.HangHoaViewModel>
+@using Common.ViewModels
+
+@foreach (var item in Model)
+{
+    <div class="form-group">
+        <label>Mã Hàng Hóa</label>
+        <input type="text" name="mahanghoa" value="@item.maHangHoa" class="form-control rounded" disabled="disabled" />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Tên Hàng Hóa</label>
+        <input type="text" id="tenhanghoa" name="tenhanghoa" value="@item.tenHangHoa" class="form-control rounded" maxlength="100" required />
+        <h3 style="margin-top:0%" hidden class="error  notifyinputTenHangHoa messageErrorinputTenHangHoa">Tên hàng hóa đã tồn tại!</h3>
+        <input type="hidden" id="checktenhanghoa" name="checktenhanghoa" class="form-control rounded" />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Giá Bán</label>
+        <input type="text" name="giaban" value="@item.giaBan" class="form-control rounded" maxlength="10" required />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Giảm Giá</label>
+        <input type="text" name="giamgia" value="@item.giamGia" class="form-control rounded" maxlength="10" required />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Số Lượng Tồn</label>
+        <input type="text" name="soluongton" value="@item.soLuongTon" class="form-control rounded" maxlength="10" required />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Đơn Vị Tính</label>
+        <input type="text" name="donvitinh" value="@item.donViTinh" class="form-control rounded" maxlength="10" required />
+    </div>
+
+    <div class="form-group">
+        <label>
+            Thông Số Kỹ Thuật
+        </label>
+        <div class="form-group">
+            <textarea id="thongsokythuat" name="thongsokythuat" class="form-control rounded" rows="10">@item.thongSoKyThuat</textarea>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>
+            Mô Tả
+        </label>
+        <div class="form-group">
+            <textarea id="mota" name="mota" class="form-control rounded" rows="10">@item.moTa</textarea>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Xuất Xứ</label>
+        <input type="text" name="xuatxu" value="@item.xuatXu" class="form-control rounded" maxlength="50" required />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Thời Gian Bảo Hành</label>
+        <input type="text" name="thoigianbaohanh" value="@item.thoiGianBaoHanh" class="form-control rounded" maxlength="10" required />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Model Name</label>
+        <input type="text" id="modelname" name="modelname" value="@item.modelName" class="form-control rounded" maxlength="100" required />
+        <h3 style="margin-top:0%" hidden class="error  notifyinputModelName messageErrorinputModelName">Model Name đã tồn tại!</h3>
+        <input type="hidden" id="checkmodelname" name="checkmodelname" class="form-control rounded" />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Loại Hàng Hóa</label>
+        @Html.DropDownList("maloaihanghoa", new SelectList(ViewBag.loaihanghoa, "Value", "Text"), new { @class = "form-control rounded" })
+    </div>
+
+    <div class="form-group">
+        <label>Trạng thái</label>
+        @Html.DropDownList("trangthai", new SelectList(@ViewBag.data, "Value", "Text"), new { @class = "form-control rounded" })
+    </div>
+
+    <input type="hidden" id="checkImage" name="checkImage" value="@item.hinhAnh" class="form-control rounded" />
+    <div class="form-group">
+        <label>Hình Ảnh</label>
+        <p id="error1" style="display:none; color:#FF0000;">
+            Định dạng ảnh không hợp lệ! Định dạng hình ảnh phải là: JPG, JPEG, PNG.
+        </p>
+        <p id="error2" style="display:none; color:#FF0000;">
+            Kích thước file hình phải nhỏ hơn 1MB.
+        </p>
+        <div class="fileinput fileinput-new" data-provides="fileinput">
+            <div class="fileinput-preview thumbnail" name="hinhanh" data-trigger="fileinput" style="width: 200px; height: 150px;">
+                <img src="~/Content/client/product/@item.hinhAnh" style="width: 200px; height: 150px;">
+            </div>
+            <div>
+                <span class="btn btn-info btn-file">
+                    <span class="fileinput-new">Chọn hình ảnh</span><span class="fileinput-exists">Thay đổi</span>
+                    <input type="file" name="hinhanh" id="fileUpload" accept="image/*">
+                    <input type="hidden" id="file" name="hinhanh" class="form-control" style="margin-left:5px">
+                </span>
+                <a href="#" class="btn btn-danger fileinput-exists" id="xoa" data-dismiss="fileinput">Xóa</a>
+            </div>
+        </div>
+    </div>
+}
+
+<script src="~/Content/assets/ckeditor/ckeditor.js"></script>
+@*<script>
+    $(document).ready(function () {
+        CKEDITOR.replace('mota', { filebrowserBrowseUrl: '#' });
+        CKEDITOR.replace('thongsokythuat', { filebrowserBrowseUrl: '#' });
+    });</script>*@

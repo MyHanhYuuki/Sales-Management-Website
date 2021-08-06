@@ -1,0 +1,151 @@
+F:\ood\UITPhone\Business\bin\Debug\Business.dll.config
+F:\ood\UITPhone\Business\bin\Debug\Business.dll
+F:\ood\UITPhone\Business\bin\Debug\Business.pdb
+F:\ood\UITPhone\Business\bin\Debug\Common.dll
+F:\ood\UITPhone\Business\bin\Debug\Data.dll
+F:\ood\UITPhone\Business\bin\Debug\EntityFramework.dll
+F:\ood\UITPhone\Business\bin\Debug\EntityFramework.SqlServer.dll
+F:\ood\UITPhone\Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\ood\UITPhone\Business\bin\Debug\MoreLinq.dll
+F:\ood\UITPhone\Business\bin\Debug\PagedList.dll
+F:\ood\UITPhone\Business\bin\Debug\PagedList.Mvc.dll
+F:\ood\UITPhone\Business\bin\Debug\System.ValueTuple.dll
+F:\ood\UITPhone\Business\bin\Debug\System.Web.Helpers.dll
+F:\ood\UITPhone\Business\bin\Debug\System.Web.Razor.dll
+F:\ood\UITPhone\Business\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\ood\UITPhone\Business\bin\Debug\System.Web.WebPages.dll
+F:\ood\UITPhone\Business\bin\Debug\System.Web.WebPages.Razor.dll
+F:\ood\UITPhone\Business\bin\Debug\Common.pdb
+F:\ood\UITPhone\Business\bin\Debug\Common.dll.config
+F:\ood\UITPhone\Business\bin\Debug\Data.pdb
+F:\ood\UITPhone\Business\bin\Debug\Data.dll.config
+F:\ood\UITPhone\Business\bin\Debug\EntityFramework.xml
+F:\ood\UITPhone\Business\bin\Debug\EntityFramework.SqlServer.xml
+F:\ood\UITPhone\Business\bin\Debug\MoreLinq.pdb
+F:\ood\UITPhone\Business\bin\Debug\MoreLinq.xml
+F:\ood\UITPhone\Business\bin\Debug\PagedList.xml
+F:\ood\UITPhone\Business\bin\Debug\PagedList.Mvc.xml
+F:\ood\UITPhone\Business\bin\Debug\System.ValueTuple.xml
+F:\ood\UITPhone\Business\bin\Debug\System.Web.Helpers.xml
+F:\ood\UITPhone\Business\bin\Debug\System.Web.Razor.xml
+F:\ood\UITPhone\Business\bin\Debug\System.Web.WebPages.xml
+F:\ood\UITPhone\Business\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\ood\UITPhone\Business\bin\Debug\System.Web.WebPages.Razor.xml
+F:\ood\UITPhone\Business\obj\Debug\Business.csprojAssemblyReference.cache
+F:\ood\UITPhone\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+F:\ood\UITPhone\Business\obj\Debug\Business.csproj.CopyComplete
+F:\ood\UITPhone\Business\obj\Debug\Business.dll
+F:\ood\UITPhone\Business\obj\Debug\Business.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Business.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Business.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Business.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Common.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Data.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\EntityFramework.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\MoreLinq.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\PagedList.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\PagedList.Mvc.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.ValueTuple.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.Helpers.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.Razor.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Common.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Common.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Data.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\Data.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\EntityFramework.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\MoreLinq.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\MoreLinq.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\PagedList.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\PagedList.Mvc.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.ValueTuple.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.Helpers.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.Razor.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\obj\Debug\Business.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Business\obj\Debug\Business.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Business.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Business.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Business.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Common.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Data.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\MoreLinq.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\PagedList.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\PagedList.Mvc.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Common.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Common.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Data.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Data.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\MoreLinq.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\MoreLinq.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\PagedList.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\PagedList.Mvc.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Business.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Business.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Business.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Common.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Data.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\EntityFramework.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\EntityFramework.SqlServer.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\MoreLinq.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\PagedList.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\PagedList.Mvc.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.ValueTuple.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.Helpers.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.Razor.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.Razor.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Common.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Common.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Data.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\Data.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\EntityFramework.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\EntityFramework.SqlServer.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\MoreLinq.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\MoreLinq.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\PagedList.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\PagedList.Mvc.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.ValueTuple.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.Helpers.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.Razor.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\bin\Debug\System.Web.WebPages.Razor.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.csprojAssemblyReference.cache
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.csproj.CopyComplete
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Business\obj\Debug\Business.pdb

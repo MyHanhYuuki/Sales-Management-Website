@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{226775BE-B912-4D23-85BF-1096604D7F22}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Data</RootNamespace>
+    <AssemblyName>Data</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Functions\GenericReponsitoryFuctions.cs" />
+    <Compile Include="Implements\BaoCaoBanHangReponsitory.cs" />
+    <Compile Include="Implements\BaoCaoDatHangReponsitory.cs" />
+    <Compile Include="Implements\BaoCaoHangHoaReponsitory.cs" />
+    <Compile Include="Implements\BaoCaoPhieuChiReponsitory.cs" />
+    <Compile Include="Implements\BaoCaoTonKhoReponsitory.cs" />
+    <Compile Include="Implements\ChiTietPhieuBanHangReponsitory.cs" />
+    <Compile Include="Implements\ChiTietPhieuBaoHanhReponsitory.cs" />
+    <Compile Include="Implements\ChiTietPhieuDatHangReponsitory.cs" />
+    <Compile Include="Implements\ChiTietPhieuKiemKhoReponsitory.cs" />
+    <Compile Include="Implements\ChiTietPhieuNhapReponsitory.cs" />
+    <Compile Include="Implements\ChiTietPhieuXuatKhoReponsitory.cs" />
+    <Compile Include="Implements\ChucVuReponsitory.cs" />
+    <Compile Include="Implements\GenericReponsitory.cs" />
+    <Compile Include="Implements\HangHoaReponsitory.cs" />
+    <Compile Include="Implements\LoaiHangHoaReponsitory.cs" />
+    <Compile Include="Implements\NhaCungCapReponsitory.cs" />
+    <Compile Include="Implements\NhanVienReponsitory.cs" />
+    <Compile Include="Implements\NhanVien_QuyenReponsitory.cs" />
+    <Compile Include="Implements\PhanQuyenReponsitory.cs" />
+    <Compile Include="Implements\PhieuBanHangReponsitory.cs" />
+    <Compile Include="Implements\PhieuBaoHanhReponsitory.cs" />
+    <Compile Include="Implements\PhieuChiReponsitory.cs" />
+    <Compile Include="Implements\PhieuDatHangReponsitory.cs" />
+    <Compile Include="Implements\PhieuKiemKhoReponsitory.cs" />
+    <Compile Include="Implements\PhieuNhapReponsitory.cs" />
+    <Compile Include="Implements\PhieuXuatKhoReponsitory.cs" />
+    <Compile Include="Interfaces\IChucVuReponsitory.cs" />
+    <Compile Include="Interfaces\IGenericReponsitory.cs" />
+    <Compile Include="Interfaces\IHangHoaRepository.cs" />
+    <Compile Include="Interfaces\ILoaiHangHoaRepository.cs" />
+    <Compile Include="Interfaces\INhanVienRepository.cs" />
+    <Compile Include="Interfaces\INhanVien_QuyenRepository.cs" />
+    <Compile Include="Interfaces\IPhanQuyenRepository.cs" />
+    <Compile Include="Interfaces\IPhieuNhapRepository.cs" />
+    <Compile Include="Interfaces\IPhieuXuatKhoRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{2e178024-1484-434c-8161-2155999d5f5e}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Common",
+    "\\QLWeb",
+    "\\QLWeb\\Areas\\Admin",
+    "\\QLWeb\\Areas\\Admin\\Controllers",
+    "\\QLWeb\\Areas\\Admin\\Views",
+    "\\QLWeb\\Areas\\Admin\\Views\\Home",
+    "\\QLWeb\\Content\\assets",
+    "\\QLWeb\\Content\\assets\\images"
+  ],
+  "SelectedNode": "\\QLWeb\\App_Data",
+  "PreviewInSolutionExplorer": false
+}

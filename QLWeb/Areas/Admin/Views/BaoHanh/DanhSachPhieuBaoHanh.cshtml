@@ -1,0 +1,89 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<Common.ViewModels.PhieuBaoHanhViewModel>
+<br />
+<table class="table table-bordered table-middle table-primary">
+    <thead>
+        <tr>
+            <th class="text-center">
+                @Html.DisplayName("Số phiếu bảo hành")
+            </th>
+            <th class="text-center">
+                @Html.DisplayName("Ngày nhận máy")
+            </th>
+            <th class="text-center">
+                @Html.DisplayName("Ngày giao máy")
+            </th>
+            <th class="text-center">
+                @Html.DisplayName("Nhân viên")
+            </th>
+            <th class="text-center">
+                @Html.DisplayName("Tên khách hàng")
+            </th>
+            <th class="text-center">
+                @Html.DisplayName("Số điện thoại")
+            </th>
+            <th class="text-center">
+                @Html.DisplayName("Trạng thái")
+            </th>
+            <th class="text-center" style="width: 12%;">
+                @Html.DisplayName("Trạng thái bảo hành")
+            </th>
+            <th class="text-center">
+                Hành động
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr style="text-align:center" class="border-warning">
+            <td>@item.soPhieuBaoHanh</td>
+            <td>@item.ngayLap.ToString("dd/MM/yyyy")</td>
+            <td>@item.ngayGiao.ToString("dd/MM/yyyy")</td>
+            <td>@item.tenNhanVien</td>
+            <td>@item.tenKhachHang</td>
+            <td>@item.soDienThoai</td>
+            @if (@item.trangThai == true)
+            {
+                <td>Đã tạo</td>
+            }
+            else
+            {
+                <td>Đã hủy</td>
+            }
+            @if (@item.daGiao == false)
+            {
+                <td>Đang bảo hành</td>
+                <td>
+                    <a href="@Url.Action("Detail", new { id = item.soPhieuBaoHanh })" class="btn btn-sm btn-success btn-xs btn-push"><i class="fa fa-eye"></i> Xem</a>
+                    <a href="@Url.Action("Confirm", new { id = item.soPhieuBaoHanh })" class="btn btn-sm btn-warning btn-xs btn-push"><i class="fa fa-check"></i> Xác nhận</a>
+                </td>
+            }
+            else
+            {
+                <td>Đã bảo hành</td>
+                if (@item.trangThai == true)
+                {
+                    <td>
+                        <a href="@Url.Action("Detail", new { id = item.soPhieuBaoHanh })" class="btn btn-sm btn-success btn-xs btn-push"><i class="fa fa-eye"></i> Xem</a>
+                        <a href="@Url.Action("Delete", new { id = item.soPhieuBaoHanh })" class="btn btn-sm btn-danger btn-xs btn-push"><i class="fa fa-trash"></i> Xóa</a>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        <a href="@Url.Action("Detail", new { id = item.soPhieuBaoHanh })" class="btn btn-sm btn-success btn-xs btn-push"><i class="fa fa-eye"></i> Xem</a>
+                    </td>
+                }
+            }
+        </tr>
+        }
+    </tbody>
+</table>
+<div class="pull-left" style="padding-top:20px">
+    <h3 class="panel-title">Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount</h3>
+</div>
+<div class="pull-right">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+</div>
+<script src="~/Scripts/bootstrap.min.js"></script>

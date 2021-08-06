@@ -1,0 +1,59 @@
+F:\ood\UITPhone\Data\bin\Debug\Data.dll.config
+F:\ood\UITPhone\Data\bin\Debug\Data.dll
+F:\ood\UITPhone\Data\bin\Debug\Data.pdb
+F:\ood\UITPhone\Data\bin\Debug\Common.dll
+F:\ood\UITPhone\Data\bin\Debug\EntityFramework.dll
+F:\ood\UITPhone\Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\ood\UITPhone\Data\bin\Debug\Common.pdb
+F:\ood\UITPhone\Data\bin\Debug\Common.dll.config
+F:\ood\UITPhone\Data\bin\Debug\EntityFramework.xml
+F:\ood\UITPhone\Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\ood\UITPhone\Data\obj\Debug\Data.csprojAssemblyReference.cache
+F:\ood\UITPhone\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+F:\ood\UITPhone\Data\obj\Debug\Data.csproj.CopyComplete
+F:\ood\UITPhone\Data\obj\Debug\Data.dll
+F:\ood\UITPhone\Data\obj\Debug\Data.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\Data.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\Data.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\Data.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\Common.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\EntityFramework.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\Common.pdb
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\Common.dll.config
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\EntityFramework.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\obj\Debug\Data.dll
+C:\Users\anhkh\OneDrive\Máy tính\UITPhone\Data\obj\Debug\Data.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Data.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Data.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Data.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Common.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Common.pdb
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Common.dll.config
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.dll
+C:\Users\ADMIN\Desktop\Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Data.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Data.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Data.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Common.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\EntityFramework.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Common.pdb
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\Common.dll.config
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\EntityFramework.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.csprojAssemblyReference.cache
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.csproj.CopyComplete
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.dll
+F:\h Đồ Án .Net_15520367_15520645\UITPhone\Data\obj\Debug\Data.pdb
